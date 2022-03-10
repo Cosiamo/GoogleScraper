@@ -1,7 +1,7 @@
 # About
 Simple web scrapper that grabs search results from Google. Not meant to be a standalone application or package. Using the logic from this for a different project.
 
-# SetUp
+# Setup
 Clone this repo then run the command `go get "github.com/PuerkitoBio/goquery"` for the goquery package. After that run the commands `go build` to build the application and `go run main.go` to run it. Searches for GitHub by default, check next section on how to change that.
 
 # How to use
