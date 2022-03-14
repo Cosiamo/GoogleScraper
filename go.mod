@@ -1,4 +1,4 @@
-module github.com/Cosiamo/GoogleScrapper
+module github.com/Cosiamo/GoogleScraper
 
 go 1.17
 
